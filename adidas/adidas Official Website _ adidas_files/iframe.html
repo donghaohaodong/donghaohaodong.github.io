@@ -1,0 +1,81 @@
+
+<!-- saved from url=(0198)http://pixel.mathtag.com/sync/iframe?mt_uuid=e1f05537-9896-4100-8650-5df4195aaf42&no_iframe=1&mt_adid=172909&skipsync=20,10025,10002,10008,10009,10010,10011,10013,10017,10025,10031,10042,10054,10082 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"></head><body style="">
+<script type="text/javascript">
+/**/
+(function() {
+    try {
+	var sync_4815162342 = function() {
+this.urls = [
+[0, "http://pixel.mathtag.com/misc/img?mop_seq=0:9&mt_cb=297356&mop_top="],
+[21, "http://ums.adtechus.com/mapuser?providerid=1005;userid=e1f05537-9896-4100-8650-5df4195aaf42"],
+[0, "http://pixel.mathtag.com/misc/img?mop_seq=1:9&mt_cb=875478&mop_top=21:1504124140|"],
+[11, "http://bh.contextweb.com/bh/rtset?do=add&pid=530739&ev=e1f05537-9896-4100-8650-5df4195aaf42"],
+[0, "http://pixel.mathtag.com/misc/img?mop_seq=2:9&mt_cb=793226&mop_top=21:1504124140|11:1504124140|"],
+[42, "http://sync.go.sonobi.com/us.gif?nw=mediamath&nuid=e1f05537-9896-4100-8650-5df4195aaf42"],
+[17, "http://ce.lijit.com/merge?pid=3&3pid=e1f05537-9896-4100-8650-5df4195aaf42"],
+[30, "http://sync.search.spotxchange.com/partner?adv_id=6653&uid=e1f05537-9896-4100-8650-5df4195aaf42"],
+[29, "http://delivery.swid.switchads.com/adserver/info.php?action=STORE&info=MMTH:e1f05537-9896-4100-8650-5df4195aaf42"],
+[39, "http://rtb-csync.smartadserver.com/redir/?partnerid=25&partneruserid=e1f05537-9896-4100-8650-5df4195aaf42"],
+[37, "http://admaym.com/UserMatch.ashx?bidderid=45&bidderuid=e1f05537-9896-4100-8650-5df4195aaf42"],
+[26, "http://ih.adscale.de/adscale-ih/tpui?tpid=39&tpuid=e1f05537-9896-4100-8650-5df4195aaf42&cburl=http%3A%2F%2Fcotads.adscale.de%2Fads%2Fpixel%2F1by1.png"],
+[0, "http://pixel.mathtag.com/misc/img?mop_seq=9:9&mt_cb=617652&check=e1f05537-9896-4100-8650-5df4195aaf42&mop_top=21:1504124140|11:1504124140|42:1504124140|17:1504124140|30:1504124140|29:1504124140|39:1504124140|37:1504124140|26:1504124140|"]
+]
+	    this.progress = 0;
+	    var self = this;
+	    var tims = "";
+	    var errs = "";
+	    this.sync = function(i)
+	    {
+		var e = document.createElement("img");
+		var now = new Date();
+		if (e.addEventListener)
+		{
+		    e.addEventListener('load', function() {
+			var temp = new Date().getTime() - now.getTime(); tims += self.urls[i][0]+':'+temp+"|";
+		    });
+		    e.addEventListener('error', function() {
+			var temp = new Date().getTime() - now.getTime(); errs += self.urls[i][0]+':'+temp+"|";
+		    });
+		}
+		e.src = self.urls[i][1];
+	    }
+	    this.batch = function()
+	    {
+		for (var i = self.progress; i < self.urls.length; ++i)
+		{
+		    self.sync(i);
+		}
+	    }
+	    this.final = function()
+	    {
+		var e = document.createElement("img");
+		e.src = self.urls[self.urls.length-1][1]+"&final&timings="+tims+"&errors="+errs;
+	    }
+	    this.some = function(howmany)
+	    {
+		var count = 0;
+		for (var i = self.progress; i < self.urls.length && count < howmany; ++i)
+		{
+		    self.sync(i);
+		    self.progress++;
+		    count++;
+		}
+	    }
+	}
+	var s_4815162342 = new sync_4815162342();
+	s_4815162342.some(1);
+	setTimeout(function(){s_4815162342.some(2);}, 1000);
+	setTimeout(s_4815162342.batch, 3000);
+	setTimeout(s_4815162342.final, 10000);
+    }
+    catch(ex)
+    {
+	document.createElement("img").src="//pixel.mathtag.com/error/img?error_domain=syncjs&what="+encodeURIComponent(ex.message);
+    }
+})();
+
+</script>
+
+
+</body></html>
