@@ -102,22 +102,17 @@
 .co-renewed-checkoutpayment .formfields {
 	margin-top: 0;
 }
-.co-renewed-checkoutpayment .adyen_creditcard .card-details .credit-cards-list,
 .co-renewed-checkoutpayment .card-details .new-creditcard-form .credit-cards-list {
 	margin-top: -68px;
 	text-align: right;
 }
-.co-renewed-checkoutpayment .adyen_creditcard .card-details .credit-cards-list img,
 .co-renewed-checkoutpayment .card-details .new-creditcard-form .credit-cards-list img {
 	padding-right: 0;
 }
-
-.co-renewed-checkoutpayment .adyen_creditcard .card-details .credit-cards-list .credit-cards-images,
 .co-renewed-checkoutpayment .card-details .new-creditcard-form .credit-cards-list .credit-cards-images {
 	float: none;
 	display: inline-block;
 }
-.co-renewed-checkoutpayment .adyen_creditcard .card-details .credit-cards-list .tips_container,
 .co-renewed-checkoutpayment .card-details .new-creditcard-form .credit-cards-list .tips_container {
 	float: right;
 	top: 15px;
