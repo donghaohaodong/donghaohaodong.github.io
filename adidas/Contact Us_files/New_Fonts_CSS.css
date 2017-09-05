@@ -1,0 +1,117 @@
+// CSS for Russia
+// CRMSFI-2613 - Font changes
+
+/*! Adidas fonts
+--------------------------------------------*/
+@font-face {
+    font-family: 'adiNeueRegular';
+    src: url("fonts/adiNeue2013-Regular.woff2") format("woff2"),
+    url("fonts/adiNeue2013-Regular.woff") format("woff"),
+    url("fonts/adiNeue2013-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;   
+}
+@font-face {
+    font-family: 'adihausregular';
+    src: url("fonts/adihausregular.woff2") format("woff2"),
+    url("fonts/adihausregular.woff") format("woff"),
+    url("fonts/adihausregular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'adihausbold';
+    src: url("fonts/adihausbold.woff2") format("woff2"),
+    url("fonts/adihausbold.woff") format("woff"),
+    url("fonts/adihausbold.ttf") format("truetype");
+    font-weight: bold;        
+}
+
+@font-face {
+    font-family: 'icomoonregular';
+    src: url("fonts/icomoon.woff2") format("woff2"),
+    url("fonts/icomoon.woff") format("woff"),
+    url("fonts/icomoon.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;    
+}
+@font-face {
+    font-family: 'adiPictoRegular';
+    src: url("fonts/adipictos-Regular.eot");
+    src: url("fonts/adipictos-Regular.eot?#iefix") format("embedded-opentype"),    
+    url("fonts/adipictos-Regular.woff2") format("woff2"),    
+    url("fonts/adipictos-Regular.woff") format("woff"),    
+    url("fonts/adipictos-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'adiNeueBold';
+    src: url("fonts/adiNeueBold.woff2") format("woff2"),
+    url("fonts/adiNeueBold.woff") format("woff"),
+    url("fonts/adiNeueBold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;    
+}
+
+/* modified from adiNeuePro to adiNeueProLight since adiNeuePro font family was defined twice below*/
+@font-face {
+    font-family: 'adiNeueProLight';
+    src: url("fonts/adineuePRO-LightWeb.eot");
+    src: url("fonts/adineuePRO-LightWeb.eot?#iefix") format("embedded-opentype"),
+    url("fonts/adineuePRO-LightWeb.woff") format("woff"),
+    url("fonts/adineuePRO-LightWeb.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;    
+}
+@font-face {
+    font-family: 'adiNeueProBlack';
+    src: url("fonts/adineuePRO-BlackWeb.eot");
+    src: url("fonts/adineuePRO-BlackWeb.eot?#iefix") format("embedded-opentype"),
+    url("fonts/adineuePRO-BlackWeb.woff") format("woff"),
+    url("fonts/adineuePRO-BlackWeb.ttf") format("truetype");
+    font-weight: 800;
+    font-style: normal;
+}
+
+// CRMSFI-2613 - Font changes
+
+// CSS for EMEA
+.leftHeaders {
+    color:#9a9b9b;
+    font-family:'adiblack',Arial,Helvetica,Verdana,sans-serif;
+    font-size:400 16px/1;
+    text-transform:uppercase;
+}
+.labelHeaders {    
+    font-family:'adihausbold',Arial,Helvetica,Verdana,sans-serif;
+    font-size:100%;
+    text-transform:uppercase;
+}
+.inputFields {    
+    font-family:'adihausregular',Arial,Helvetica,Verdana,sans-serif;
+    font-size:14px;
+    color:#363738;    
+}
+// CSS for EMEA
+
+// CSS for Russia
+.leftHeadersRU {
+    color:#8c8a85;
+    font-family:'DINWebPro-CondMedium',Arial,Helvetica,Verdana,sans-serif;
+    font-size:24px;
+    text-transform:uppercase;
+}
+.labelHeadersRU {    
+    font-family:'DINPro-Bold',Arial,Helvetica,Verdana,sans-serif;
+    font-size:14px;
+    text-transform:uppercase;
+    
+	
+}
+.inputFieldsRU {    
+    font-family:'DINPro-Regular',Arial,Helvetica,Verdana,sans-serif;
+    font-size:14px;
+    color:#333;    
+}
