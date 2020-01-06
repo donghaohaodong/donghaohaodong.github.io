@@ -16,8 +16,8 @@
 window.onmessage = (e) => {
   console.log(e.data.hasOwnProperty("frameHeight"));    
   if (e.data.hasOwnProperty("frameHeight")) {
-    document.getElementById("chatFrame").style.height = e.data.frameHeight + 20+ "px";
-    document.getElementById("chatFrame").style.width = e.data.frameWidth + 20+ "px";
+    document.getElementById("chatFrame").style.height = e.data.frameHeight + 40+ "px";
+    document.getElementById("chatFrame").style.width = e.data.frameWidth + 200+ "px";
   }
 };
 </script>    
