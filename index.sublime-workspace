@@ -1,0 +1,784 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"chat",
+				"chatButtonsMDT"
+			],
+			[
+				"is",
+				"isAvailable"
+			],
+			[
+				"c",
+				"PUBLIC getCurrentToken() \tsystem.JSONToken"
+			],
+			[
+				"getb",
+				"PUBLIC getBooleanValue() \tBoolean"
+			],
+			[
+				"se",
+				"searchResult"
+			],
+			[
+				"s",
+				"PUBLIC sCurrentDialogName\tString"
+			],
+			[
+				"comm",
+				"communityNetworks"
+			],
+			[
+				"set",
+				"CookbookBot_SetDefault_ChatRequestPage"
+			],
+			[
+				"op",
+				"openSlots"
+			],
+			[
+				"update",
+				"updatedAppointment"
+			],
+			[
+				"up",
+				"updatedAppointment"
+			],
+			[
+				"as",
+				"assertEquals()"
+			],
+			[
+				"Date",
+				"Datetime\t[Standard Apex Class]"
+			],
+			[
+				"curr",
+				"currentConfidenceForUtterance__c"
+			],
+			[
+				"Or",
+				"OrderOutput"
+			],
+			[
+				"Sta",
+				"Status__c"
+			],
+			[
+				"si",
+				"PUBLIC size() \tInteger"
+			],
+			[
+				"order",
+				"orderInput"
+			],
+			[
+				"or",
+				"orderNumbers"
+			],
+			[
+				"ou",
+				"IsOutbound \t"
+			],
+			[
+				"outpu",
+				"outputField\tapex"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"new",
+				"newContact"
+			],
+			[
+				"Rec",
+				"RecordTypeId"
+			],
+			[
+				"ini",
+				"PUBLIC initiateProductRecommendationSelector() \tvoid"
+			],
+			[
+				"CCC_Pro",
+				"CCC_Product_Recommendation__c"
+			],
+			[
+				"chil",
+				"childCase"
+			],
+			[
+				"curre",
+				"currentProducts"
+			],
+			[
+				"CCC",
+				"CCC_Visible__c"
+			],
+			[
+				"filter",
+				"ProductFilterByBrand"
+			],
+			[
+				"Level",
+				"Level__c"
+			],
+			[
+				"count",
+				"sCountry"
+			],
+			[
+				"orig",
+				"originalProdctRecommendation"
+			],
+			[
+				"LV",
+				"LVL1__c"
+			],
+			[
+				"CCC_",
+				"CCC_Reason__c\t[Sobject Name]"
+			],
+			[
+				"sel",
+				"selectedLevel1"
+			],
+			[
+				"l",
+				"Level__c \tNumber"
+			],
+			[
+				"case",
+				"caseAttributes"
+			],
+			[
+				"PRO",
+				"PRODUCT_FILTER_BY_BRAND_RECOMMENDATION"
+			],
+			[
+				"PR",
+				"PRODUCT_FILTER_BY_BRAND_PRIMARY"
+			],
+			[
+				"bis",
+				"PUBLIC bIsCountrySet\tBoolean"
+			],
+			[
+				"enterPressT",
+				"enterPressToReason"
+			],
+			[
+				"prod",
+				"productSelector"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"on",
+				"onclick\tString"
+			],
+			[
+				"d",
+				"disabled\tBoolean"
+			],
+			[
+				"lis",
+				"list-style-position"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"newI",
+				"newIssueErrorMsg"
+			],
+			[
+				"g",
+				"PUBLIC getMessage() \tString"
+			],
+			[
+				"get",
+				"PUBLIC getHeader(String key) \tString"
+			],
+			[
+				"CCC_Beauty",
+				"CCC_Beauty_Profile_Sync_Option__c"
+			],
+			[
+				"inlin",
+				"inline-table"
+			],
+			[
+				"Com",
+				"Compliments"
+			],
+			[
+				"Co",
+				"Complaints"
+			],
+			[
+				"SFPS_SCS_",
+				"SFPS_SCS_Post_Influence__c"
+			],
+			[
+				"SF",
+				"SFPS_SCS_Post_Priority__c"
+			],
+			[
+				"b",
+				"bRunCaseAssignmentRule"
+			],
+			[
+				"KB_",
+				"CCC_KB_Product__c"
+			],
+			[
+				"sf",
+				"SFPS_SCS_Timestamp_NPS__c"
+			],
+			[
+				"sfps_scs_np",
+				"SFPS_SCS_Post_NPS__c"
+			],
+			[
+				"sfps_scs",
+				"SFPS_SCS_NPS__c"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"SocialP",
+				"SocialPersona\t[Sobject Name]"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"isou",
+				"IsOutbound"
+			],
+			[
+				"SFPS_SCS_NP",
+				"SFPS_SCS_Post_NPS__c"
+			],
+			[
+				"Descr",
+				"Description"
+			],
+			[
+				"Social",
+				"SocialPost"
+			],
+			[
+				"Post",
+				"PostTags"
+			],
+			[
+				"Pare",
+				"ParentId"
+			],
+			[
+				"ol",
+				"oldMap"
+			],
+			[
+				"sPrio",
+				"sPriority"
+			],
+			[
+				"addr",
+				"addressList"
+			],
+			[
+				"req",
+				"reqData"
+			],
+			[
+				"post",
+				"PostTags"
+			],
+			[
+				"satt",
+				"sAttr1"
+			],
+			[
+				"sin",
+				"sInfluence"
+			],
+			[
+				"Att",
+				"Attr1__c"
+			],
+			[
+				"att",
+				"Attr1"
+			],
+			[
+				"sing",
+				"singleTag"
+			],
+			[
+				"escape",
+				"PUBLIC escapeSingleQuotes(String s) \tString"
+			],
+			[
+				"a",
+				"PUBLIC addAll(LIST elements) \tBoolean"
+			],
+			[
+				"trans",
+				"translation"
+			],
+			[
+				"sC",
+				"sCurrentFieldList"
+			],
+			[
+				"postTags",
+				"postTagsByCase"
+			],
+			[
+				"postT",
+				"postTagClause"
+			],
+			[
+				"M",
+				"MediaType"
+			],
+			[
+				"o",
+				"oldMap"
+			],
+			[
+				"tri",
+				"trigger"
+			],
+			[
+				"Po",
+				"populateIssueFromParent"
+			],
+			[
+				"sT",
+				"sTimeStamp"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"mart",
+				"margin-left"
+			],
+			[
+				"CCC_Email",
+				"CCC_Email_OptIn_Status__c \tPicklist"
+			],
+			[
+				"out",
+				"outputField\tapex"
+			],
+			[
+				"bottom",
+				"margin-bottom"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"i",
+				"isBefore"
+			],
+			[
+				"issue",
+				"CCC_Issue_ID__c"
+			],
+			[
+				"map",
+				"mapContactAccount"
+			],
+			[
+				"ss",
+				"sSurveyURL"
+			],
+			[
+				"Inte",
+				"Integer\t[Standard Apex Class]"
+			],
+			[
+				"CCC_Issue",
+				"CCC_Issue_ID__c(Issue ID)\tDouble(2, 0)"
+			],
+			[
+				"CCC_survey",
+				"CCC_Survey__r\tCCC_Survey__c(c2p)"
+			],
+			[
+				"CCC_sur",
+				"CCC_Survey_Completed__c(CCC Survey Completed)\tBoolean"
+			],
+			[
+				"ccc_surve",
+				"CCC_Survey_URL_with_Detail__c(CCC Survey URL with Detail)\tFormula(String, 1300)"
+			],
+			[
+				"CCC_Survey__",
+				"CCC_Survey__c(CCC Survey)\tReference"
+			],
+			[
+				"CCC_Su",
+				"CCC_Survey__c\tSobject"
+			],
+			[
+				"sBr",
+				"sBrandId"
+			],
+			[
+				"bIs",
+				"bIsBrandSet"
+			],
+			[
+				"ccc_Coun",
+				"CCC_Country__c(Country)\tPicklist(255)"
+			],
+			[
+				"CCC_Br",
+				"CCC_Brand__c(CCC Brand)\tReference"
+			],
+			[
+				"CCC_B",
+				"CCC_Brand__c(CCC Brand)\tReference"
+			],
+			[
+				"CCC_C",
+				"CCC_Country__c(Country)\tPicklist(255)"
+			],
+			[
+				"productS",
+				"productSurveyMap"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 678.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/hdong/Downloads/unpackaged 5/package.xml",
+		"/Users/hdong/git/donghaohaodong.github.io/index.sublime-workspace",
+		"/Users/hdong/Downloads/retrieve_09SB0000004nahdMAA/objects/Dialog_Instance__c.object",
+		"/Users/hdong/mm_workspace/loreal/src/pages/SFPS_CTI_Gadget_Component_BS.page",
+		"/Users/hdong/Downloads/df_cec/deploy/bots/Dream_Bot.bot",
+		"/Users/hdong/Downloads/unpackaged 6/mlDomains/DreamBot.mlDomain",
+		"/Users/hdong/Downloads/unpackaged 6/package.xml",
+		"/Users/hdong/Downloads/df_cec_1116/package.xml",
+		"/Users/hdong/Downloads/df_cec/deploy/bots/tset.bot",
+		"/Users/hdong/Downloads/df_cec/bots/tset2.bot",
+		"/Users/hdong/Downloads/retrieve_09S23000000nO3HEAU/package.xml",
+		"/Users/hdong/Downloads/retrieve_09S23000000nJ9AEAU/package.xml",
+		"/Users/hdong/Downloads/retrieve_09S23000000nJ9AEAU/bots/DreamBot.bot",
+		"/Users/hdong/Downloads/retrieve_09S23000000n6pDEAQ/bots/DreamBot.bot",
+		"/Users/hdong/Downloads/retrieve_09S23000000n6pDEAQ/package.xml",
+		"/Users/hdong/Desktop/Projects/DF19CEC/unpackaged 2/package.xml",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_SearchFAQ.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/staticresources/CookbookBot_SnippetSettingsFile.resource-meta.xml",
+		"/Users/hdong/mm_workspace/cookbook_bot_summer18/src/pages/CookbookBot_CustomChat_LA.page",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/package.xml",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/pages/CookbookBot_ChatTransfer_LA.page",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/pages/CookbookBot_ChatLanding_LA.page",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_handleIntentDetectionFailure.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_GetOrderStatus.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_GetOpenAppointments.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_GetAvailableSlots.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_CancelOrder.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_LogUtterance.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_CreateCaseWithoutAgent.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_UT_Appointment.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_UT_Utils.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_UT_FAQ.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_UT_Order.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_InitializeBot.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_GetBotSettings.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_GetBotBySkill.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/pages/CookbookBot_CustomChat_LA.page",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_LA_Rest_Utils.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/pages/CookbookBot_ChatLanding_LA_Custom.page",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/pages/CookbookBot_ChatLanding_SnapIn.page",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/pages/CookbookBot_Help.page-meta.xml",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/pages/CookbookBot_ChatLanding_LA_Custom.page-meta.xml",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/pages/CookbookBot_CustomChat_LA.page-meta.xml",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_CheckAgentAvailability.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_CheckAgentAvailability.cls-meta.xml",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_REST_Utils.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/pages/CookbookBot_Help.page",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/objects/Bot_Appointment__c.object",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/pages/CookbookBot_ChatTransferInterim.page",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/pages/CookbookBot_ChatTransferInterim.page-meta.xml",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_SetDefault_ChatRequestPage.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_SaveUpdatedAppointment.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_CreateCaseWithoutAgent.cls-meta.xml",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_InitializeBot_v2.cls-meta.xml",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_InitializeBot_v2.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_REST_API_Utils.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_UT_DataFactory.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_SetDefault_ShoppingCart.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/DemoBotAction_GetRecentOrders.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_UT_FAQ.cls-meta.xml",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_LA_Rest_Utils.cls-meta.xml",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_UT_Utils.cls-meta.xml",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_UT_Appointment.cls-meta.xml",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_UT.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_UT_DataFactory.cls-meta.xml",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_CancelOrder.cls-meta.xml",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_Test.cls-meta.xml",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_Test.cls",
+		"/Users/hdong/mm_workspace/cookbook_bot/src/classes/CookbookBot_handleIntentDetectionFailure.cls-meta.xml",
+		"/Users/hdong/mm_workspace/Bot_Dev/src/classes/DemoBotClass_GetOrderStatus.cls-meta.xml",
+		"/Users/hdong/mm_workspace/fedex_orion/src/classes/SFPS_GNC_GetNextCase.cls",
+		"/Users/hdong/mm_workspace/fedex_orion/src/classes/SFPS_SCS_SocialPostActions.cls-meta.xml",
+		"/Users/hdong/mm_workspace/fedex_orion/src/classes/SFPS_SCS_SocialPostActions.cls",
+		"/Users/hdong/mm_workspace/fedex_orion/src/pages/LiveAgentHelper.page",
+		"/Users/hdong/mm_workspace/fedex_orion/src/objects/Case.object",
+		"/Users/hdong/ant/salesforce_ant_33.0/fedex/unpackaged/package.xml",
+		"/Users/hdong/ant/salesforce_ant_33.0/fedex/retrieveUnpackaged/objects/Case.object",
+		"/Users/hdong/mm_workspace/fedex_orion/src/triggers/LiveAgentSessionTrigger.trigger",
+		"/Users/hdong/mm_workspace/fedex_orion/src/classes/CaseListCtr.cls",
+		"/Users/hdong/mm_workspace/fedex_orion/src/classes/SFPS_GNC_GetNextCaseTest.cls",
+		"/Users/hdong/mm_workspace/fedex_orion/src/classes/QuickTextConsoleComponentController.cls",
+		"/Users/hdong/mm_workspace/fedex_orion/src/pages/QuickTextConsoleComponent.page",
+		"/Users/hdong/mm_workspace/fedex_orion/src/classes/LiveAgentHelperController.cls",
+		"/Users/hdong/mm_workspace/fedex_orion/src/staticresources/fedex_la_common_css.resource",
+		"/Users/hdong/mm_workspace/fedex_orion/src/assignmentRules/Case.assignmentRules",
+		"/Users/hdong/mm_workspace/fedex_orion/src/package.xml",
+		"/Users/hdong/Desktop/test_pol.page",
+		"/Users/hdong/ant/salesforce_ant_33.0/fedex/retrieveUnpackaged/workflows/Case.workflow",
+		"/Users/hdong/mm_workspace/fedex_orion/src/pages/CorpBrandedChat.page",
+		"/Users/hdong/mm_workspace/fedex_orion/src/classes/QuickTextConsoleComponentController_Test.cls",
+		"/Users/hdong/mm_workspace/fedex_orion/src/classes/TestHelper.cls",
+		"/Users/hdong/mm_workspace/fedex_orion/src/classes/SFPS_GNC_GetNextCaseTest.cls-meta.xml",
+		"/Users/hdong/ant/salesforce_ant_33.0/fedex/build.properties",
+		"/Users/hdong/mm_workspace/fedex_orion/src/workflows/Case.workflow",
+		"/Users/hdong/mm_workspace/fedex_orion/src/classes/CaseTriggerHandler.cls",
+		"/Users/hdong/mm_workspace/fedex_orion/src/accountSharingRules/Account.sharingRules",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/objects/Case.object",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/objects/SFPS_C_Reason__c.object",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/classes/SFPS_GNC_NextInQueue.cls",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/classes/SFPS_GNC_GetNextCase.cls",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/classes/THDCCA_QuickLinksListCtrl.cls",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/datacategorygroups/Product.datacategorygroup",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/pages/SFPS_GNC_NextInQueue.page",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/classes/SFPS_GNC_NextInQueueTest.cls",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/classes/SFPS_C_ProductReasonSelectorController.cls",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/applications/CCA_Service_Console.app",
+		"/Users/hdong/Downloads/GetNextCase/pages/NextInQueue.page-meta.xml",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/pages/SFPS_C_ProductReasonSelector_Hao.page",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/pages/SFPS_C_ProductReasonSelector.page",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/classes/SFPS_C_ProductReasonSelectorControllerT.cls",
+		"/Users/hdong/Downloads/GetNextCase/customApplicationComponents/NextInQueue.customApplicationComponent",
+		"/Users/hdong/Downloads/GetNextCase/classes/NextInQueue.cls",
+		"/Users/hdong/Downloads/GetNextCase/pages/NextInQueue.page",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/pages/THDCCA_CaseSplitSummary.page",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/reportTypes/CCA_Knowledge_Article_with_Views.reportType",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/package.xml",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/reportTypes/CCA_Knowledge_Article_Versions.reportType",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/reportTypes/CCA_Knowledge_Article_Version.reportType",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/reports/CCA_Reports-meta.xml",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/reports/CCA_Knowledge_Report/CCA_Articles_Needed_Review.report",
+		"/Users/hdong/Downloads/TestWebToCaseDev.html",
+		"/Users/hdong/mm_workspace/homedepot_cca/homedepot_cca.sublime-project",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/workflows/Case.workflow",
+		"/Users/hdong/Library/Application Support/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
+		"/Users/hdong/mm_workspace/homedepot_cca/homedepot_cca.sublime-settings",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/objects/SFPS_C_Product__c.object",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/workflows/Task.workflow",
+		"/Users/hdong/mm_workspace/homedepot_cca/src/pages/CRM_DuplicateCaseCheck.page-meta.xml"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 222.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/mm_workspace/zara/zara.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 385.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
