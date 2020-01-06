@@ -1,35 +1,33 @@
-<h1>Adidas ChatBot Demo Pages</h1>
-
-<div>
-<h2>Core Demo - Adidas UAT Sandbox</h2>
-<ul>
-	<li><a href='/adidas/adidas-sandbox-standard.html'>Adidas Bot in Classic Live Agent Chat Client - Standard</a></li>
-	<li><a href='/adidas/adidas-sandbox-custom.html'>Adidas Bot in Classic Live Agent Chat Client - Custom</a></li>
-</ul>
-</div>
-
-
-<div>
-<h2>Core Demo - Adidas cmq4sp34 Sandbox</h2>
-<ul>
-	<li><a href='/adidas/adidas-cmq4sp34-standard.html'>Adidas Bot in Classic Live Agent Chat Client - Standard</a></li>
-	<li><a href='/adidas/adidas-cmq4sp34-custom.html'>Adidas Bot in Classic Live Agent Chat Client - Custom</a></li>
-	<li><a href='/adidas/adidas-cmq4sp34-snapin.html'>Adidas Bot in Snaps-In Chat</a></li>
-</ul>
-</div>
-
-<h2>Core Demo - Dev Org</h2>
-<ul>
-	<li><a href='http://esw1234.github.io/Adidas.html'>Adidas Bot in Snap-In Chat</a></li>
-	<li><a href='/adidas/adidas-la-standard.html'>Adidas Bot in Classic Live Agent Chat Client - Standard</a></li>
-	<li><a href='/adidas/adidas-la-custom.html'>Adidas Bot in Classic Live Agent Chat Client - Custom</a></li>
-</ul>
-</div>
-<p />
-<div>
-<h2>Additional Test</h2>
-<ul>
-	<li><a href='/adidas/adidas-snapin.html'>Snap-In Chat without Bot</a></li>
-	<li><a href='/adidas/adidas-la-custom-no-bot.html'>Custom Live Agent Chat Client without Bot</a></li>
-</ul>
-</div>
+<!DOCTYPE html>
+<html>
+ <style>
+    html {
+         background-image: url('https://help.salesforce.com/resource/HelpStaticResource/assets/images/hero_tablet.png');
+         background-repeat: norepeat;
+         background-size: cover;        
+     }
+    iframe{
+        width: 100%;
+    height:100%;
+    border: none;
+    }
+  </style>
+  <head>
+      <title>Salesforce Chat - Iframes POC</title>
+  </head>
+<script type="text/javascript" src="path/to/prototype.js"></script>
+<script type="application/javascript">
+window.onmessage = (e) => {
+  console.log(e.data.hasOwnProperty("frameHeight"));    
+  if (e.data.hasOwnProperty("frameHeight")) {
+    document.getElementById("chatFrame").style.height = e.data.frameHeight + 20+ "px";
+    document.getElementById("chatFrame").style.width = e.data.frameWidth + 20+ "px";
+  }
+};
+</script>    
+   <body>         
+   <div style ="bottom: 0px; right: 0px; position: absolute;" >                                                           
+       <iframe id="chatFrame" src= "ChatEmbedded.html"></iframe>
+   </div>        
+    </body>    
+</html>
